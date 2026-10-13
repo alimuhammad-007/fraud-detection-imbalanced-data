@@ -1,0 +1,11 @@
+
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+creditcard.csv
+*.joblib
+*.pkl
+
+.env
+.DS_Store
